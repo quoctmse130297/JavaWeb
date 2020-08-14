@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/TranMinhQuoc_SE130297_SE1412_PROJECT">
+  <Resource auth="com.microsoft.sqlserver.jdbc.SQLServerDriver" driverClassName="com.microsoft.sqlserver.jdbc.SQLServerDriver" name="SE130297" password="123456" type="javax.sql.DataSource" url="jdbc:sqlserver://localhost:1433;databaseName=Project-SE1412" username="sa"/>
+</Context>
